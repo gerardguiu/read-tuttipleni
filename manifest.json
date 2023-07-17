@@ -1,0 +1,18 @@
+     {
+    "manifest_version": 3,
+    "name": "Read Tuttipleni",
+    "description": "Extensión para leer los contenidos bloqueados",
+    "version": "1.0",
+    "author": "@gerardguiu",  
+    "icons": {
+      "128": "tuttipleni.png"
+    },
+    "permissions": [
+      "activeTab",
+      "scripting",
+      "tabs"
+    ],
+    "action": {
+        "default_popup" : "popup.html"
+    }
+  }
