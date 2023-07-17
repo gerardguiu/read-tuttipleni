@@ -2,7 +2,7 @@
 #read-tuttipleni
 
 Chome extension for read all blocked articles
-
+Use the google cache for read full article ;)
 
 
 ## Authors

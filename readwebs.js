@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", function() {
             const googleCache = 'http://webcache.googleusercontent.com/search?q=cache:';
             let url = tabs[0].url;
            chrome.tabs.create({ url: googleCache+url });
-        // window.location.href = googleCache+url;
         }); 
     }, false);
 });
